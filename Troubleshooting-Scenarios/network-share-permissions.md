@@ -6,8 +6,6 @@
 
 ## Investigation
 
-I verified that the `IT-Shared` folder was shared from `C:\IT-Shared` on the domain controller.
-
 I checked the folder's NTFS permissions and found that `ITLAB\Users` had Read & Execute, List Folder Contents, and Read permissions.
 
 I then added `Domain Users` with Modify permissions to allow domain users to create and modify files.
