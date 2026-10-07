@@ -138,4 +138,4 @@ Identified inherited permissions from the parent share and configured department
 
 ## Project Goal
 
-The purpose of this lab is to build practical experience with common Windows IT support tasks in a controlled environment and document the troubleshooting process used to identify and resolve problems.
+The purpose of this lab is for me to build practical experience with common Windows IT support tasks in a controlled environment and document the troubleshooting process used to identify and resolve problems.
