@@ -4,7 +4,7 @@ A hands-on IT support lab built with Microsoft Hyper-V and Windows Server to pra
 
 ## Lab Overview
 
-This project simulates a small business Windows environment with an employee workstation and a Windows Server domain controller.
+This project simulates a Windows environment with an employee workstation and a Windows Server domain controller.
 
 ### Environment
 
